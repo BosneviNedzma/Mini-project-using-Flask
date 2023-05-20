@@ -1,6 +1,4 @@
 # Mini-project-using-Flask
-
-windows
 ## flasky
 ### First step: create VENV - python -m venv venv
 ### Second step: venv\Scripts\activate
