@@ -1,6 +1,6 @@
 # Mini-project-using-Flask
 ## flasky
-### First step: create VENV - python -m venv venv
+### First step: create VENV - "python -m venv venv"
 ### Second step: venv\Scripts\activate
 ### Third step:
 ###    - pip install flask
